@@ -1,0 +1,12 @@
+site_name: Prj_Salary
+theme:
+    name: material
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - API:
+    - salary: api_salary.md  
+    - main: api_main.md
+
+plugins:
+    - mkdocstrings
