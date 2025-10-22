@@ -2,8 +2,7 @@ name: Run Python unittests
 
 on:
   push:
-    branches:
-      - [ main ]
+    branches: [ main ]
 jobs:
   test:
     runs-on: ubuntu-latest
