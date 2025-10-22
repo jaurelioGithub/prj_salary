@@ -24,4 +24,4 @@ jobs:
         with:
           context: . # Directorio con el Dockerfile
           push: true # Empujar la imagen después de construirla
-          tags: ghcr.io/${{ github.repository_owner }}/prj-salary:latest
+          tags: ghcr.io/${{ toLower(github.repository_owner) }}/prj_salary:latest
