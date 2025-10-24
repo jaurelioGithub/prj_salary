@@ -1,4 +1,4 @@
-# Welcome to Salary
+# Welcome to Prj_Salary
 ##Description
 Python application that computes the weekly salary as a function of the number of hours and the hourly wage.
 
@@ -12,10 +12,10 @@ Python application that computes the weekly salary as a function of the number o
 
 ##Instalation
 1. clone repository:
-   git clone https://github.com/jaurelioGithub/salary.git
+   git clone https://github.com/jaurelioGithub/prj_salary.git
 
 2. change folder:
-   cd salary
+   cd prj_salary
 
 ##Author
 José Sánchez
