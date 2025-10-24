@@ -1,4 +1,4 @@
-name: Deploy MkDocs documentation
+name: documentation
 
 on:
   push:
